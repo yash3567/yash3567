@@ -53,13 +53,7 @@
 <br/>  
  
 
-## Github Trophy 
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yash3567&margin-w=15" alt="yash3567" />
-  </a>
-</p>
 
 ## Github Stats 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash3567&show_icons=true&locale=en&layout=compact&theme=radical" alt="yash3567" /></p>
