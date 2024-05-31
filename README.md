@@ -7,7 +7,7 @@
 
 📈 When I'm not coding, you can find me reading about the latest industry trends, experimenting with new technologies, or exploring the great outdoors.
 
-📫 Feel free to reach out to me at yashnandeshwar32@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yash-nandeshwar-880b18267/) to chat about anything else that's on your mind.
+📫 If you have additional topics to discuss,feel free to reach out to me at yashnandeshwar32@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yash-nandeshwar-880b18267/) to chat about anything else that's on your mind.
 
 **Languages and Tools:**
 
