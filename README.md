@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, NodeJS, ReactJS, MongoDB, Core Java**
 
-📈 When I'm not coding, you can find me reading about the latest industry trends, experimenting with new technologies, or exploring the great outdoors.
+📈 When I'm not engrossed in coding,  I typically spend my time perusing the latest advancements in the industry,  experimenting with novel technologies, or exploring the natural world.
 
 📫 If you have additional topics to discuss, feel free to reach out to me at yashnandeshwar32@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/yash-nandeshwar-880b18267/) to chat about anything else that's on your mind.
 
