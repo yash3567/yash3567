@@ -28,18 +28,20 @@
 
 <h5><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Github Stats</h6>
 
-  <br/>
-    <a href="https://github.com/yash3567/github-readme-stats"><img alt="Yash Nandeshwar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yash3567&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/yash3567/github-readme-stats"><img alt="Yash Nandeshwar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash3567&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <br/>
- <a href="https://github.com/yash3567/github-readme-stats">
-    <img alt="Yash Nandeshwar's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yash3567&theme=react&hide_border=true&background=0D1117" />
+<br/>
+<a href="https://github.com/yash3567/github-readme-stats">
+  <img alt="Yash Nandeshwar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yash3567&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF&icon_color=8A2BE2" />
 </a>
-
+<a href="https://github.com/yash3567/github-readme-stats">
+  <img alt="Yash Nandeshwar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash3567&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF&icon_color=8A2BE2" />
 </a>
+<br/>
+<br/>
+<a href="https://github.com/yash3567/github-readme-stats">
+  <img alt="Yash Nandeshwar's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yash3567&theme=react&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakNum=8A2BE2&sideNums=8A2BE2&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=FFFFFF" />
+</a>
+<br/>
 
-  <br/>
 <font size="0.2px">The top languages metric primarily reflects the composition of languages in my public repositories and should not be construed as an indicator of my skill level or proficiency.</font>
 
 
