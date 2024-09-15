@@ -37,14 +37,6 @@
 
 </a>
 
-  <br/>
-<font size="0.2px">The top languages metric primarily reflects the composition of languages in my public repositories and should not be construed as an indicator of my skill level or proficiency.</font>
-
-
-<br/>
-<br/>
-
-
 #### ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=yash3567">
