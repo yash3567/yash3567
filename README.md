@@ -1,9 +1,9 @@
 ### Hi 👋 I'm Yash Nandeshwar
 <img align="right" alt="Coding" width="320" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱  Full Stack Developer
 
-- 💬 Ask me about **Core Java**
+  
 
 📈 When I'm not engrossed in coding,  I typically spend my time perusing the latest advancements in the industry,  experimenting with novel technologies, or exploring the natural world.
 
